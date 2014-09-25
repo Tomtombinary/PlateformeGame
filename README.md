@@ -1,4 +1,6 @@
 PlateformeGame
 ==============
 
-Petit jeu de plateforme type geometry dash en java
+Petit jeu de plateforme type geometry dash en java .
+IDE NetBeans
+
